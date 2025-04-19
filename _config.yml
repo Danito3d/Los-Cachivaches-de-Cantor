@@ -37,7 +37,7 @@ jekyll-feed:
     - name: "Facebook"
       icon: "facebook"  # Usa icono de Font Awesome
       url: "https://www.facebook.com/profile.php?id=61575577703063&locale=es_LA"
-
+favicon:  C:\Users\pcnue\Los-Cachivaches-de-Cantor\assets\images
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
