@@ -1,6 +1,6 @@
 ---
 title: "Letreros que Cantor amaría: Cuando las advertencias jocosas son conjuntos no numerables"
-date: 2025-03-18
+date: 2025-04-18
 categories: [matemáticas, humor]
 tags: [teoría de conjuntos, Cantor, abstracción]
 seo:
@@ -19,9 +19,7 @@ Los letreros explicativos —esas muestras gráficas que pueblan negocios— sue
 Cantor demostró que hay infinitos más grandes que otros. y nos dio las herramientas (A parte de quebraderos de cabeza), de como interpretar este tipo de diagramas:
 
 > **Definición axiomatica:**  
-> Sea \( \text{Ch} = \{ \text{Chirimbolos} \} \) un subconjunto de \( \text{Ca} \) (Cachivaches), donde cada elemento \( \text{co} \in \text{Ch} \) satisface:  
-> \[ \forall\, \text{co}\, \exists\, f: \text{co} \to \text{pe} \quad \text{(biyectiva)} \]  
-> con \( \text{pe} = \{ \text{Pedronchos} \} \).
+![Sistema axiomatico](/Los-Cachivaches-de-Cantor/assets/images/posts/sistema-axiomatico.png)
 
 ## Diagramaa de abstraccion
 ### 1. Relación de contención (Euler)
