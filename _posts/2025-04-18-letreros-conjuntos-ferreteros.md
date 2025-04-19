@@ -21,13 +21,13 @@ Cantor demostró que hay infinitos más grandes que otros. y nos dio las herrami
 
 > **Definición axiomatica:**  
 
-
+<p>
 ![Sistema axiomatico](/Los-Cachivaches-de-Cantor/assets/images/posts/sistema-axiomatico.png)
-
+</p>
 
 ## Diagrama de abstraccion
-### 1. Relación de contención (Euler)
 ![Diagrama de Euler](/Los-Cachivaches-de-Cantor/assets/images/posts/diagrama-euler.png)
+### 1. Relación de contención (Euler)
 
 ## Conclusión y llamado a la acción
 Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferreteria: es un **¡sistema axiomático completo!**. ¿Qué otros objetos cotidianos crees que esconden estructuras de ZF?  
