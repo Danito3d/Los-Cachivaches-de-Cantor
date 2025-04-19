@@ -19,12 +19,12 @@ Los letreros explicativos —esas muestras gráficas que pueblan negocios— sue
 ### Contexto matemático-humorístico
 Cantor demostró que hay infinitos más grandes que otros. y nos dio las herramientas (A parte de quebraderos de cabeza), de como interpretar este tipo de diagramas:
 
-> **Definición axiomatica:**  
+> **Definición axiomatica:**  <p>
 
-<p>
-![Sistema axiomatico](/Los-Cachivaches-de-Cantor/assets/images/posts/sistema-axiomatico.png)
 </p>
-
+![Sistema axiomatico](/Los-Cachivaches-de-Cantor/assets/images/posts/sistema-axiomatico.png)
+<p>
+</p>
 ## Diagrama de abstraccion
 ![Diagrama de Euler](/Los-Cachivaches-de-Cantor/assets/images/posts/diagrama-euler.png)
 ### 1. Relación de contención (Euler)
