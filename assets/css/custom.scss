@@ -1,0 +1,8 @@
+.post-image {
+  display: block;
+  max-width: 50%;  /* Ajusta este valor (ej: 80% para más grande) */
+  height: auto;
+  margin: 0 auto 2rem;  /* Centrado vertical y margen inferior */
+  border-radius: 8px;  /* Opcional: bordes redondeados */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);  /* Opcional: sombra sutil */
+}
