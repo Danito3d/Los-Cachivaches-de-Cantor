@@ -9,6 +9,7 @@ seo:
 ---
 
 ![Letrero explicativo](/Los-Cachivaches-de-Cantor/assets/images/posts/letrero-explicativo.jpg)
+
 *"¿Sabías que este letrero es un producto cartesiano entre el sarcasmo y la teoría de conjuntos?"*
 
 ## La teoría de conjuntos tras los letreros
@@ -19,9 +20,12 @@ Los letreros explicativos —esas muestras gráficas que pueblan negocios— sue
 Cantor demostró que hay infinitos más grandes que otros. y nos dio las herramientas (A parte de quebraderos de cabeza), de como interpretar este tipo de diagramas:
 
 > **Definición axiomatica:**  
+
+
 ![Sistema axiomatico](/Los-Cachivaches-de-Cantor/assets/images/posts/sistema-axiomatico.png)
 
-## Diagramaa de abstraccion
+
+## Diagrama de abstraccion
 ### 1. Relación de contención (Euler)
 ![Diagrama de Euler](/Los-Cachivaches-de-Cantor/assets/images/posts/diagrama-euler.png)
 
