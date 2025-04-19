@@ -1,0 +1,18 @@
+<!-- MathJax Configuration -->
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],  // Soporte para $...$ y \(...\)
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],  // Ecuaciones en línea vs. centradas
+      processEscapes: true,  // Permite usar \$ para signos de dólar literales
+      tags: 'ams'  // Numeración de ecuaciones estilo AMS
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']  // Ignora estos tags
+    },
+    svg: {
+      fontCache: 'global'  // Mejor renderizado
+    }
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" async></script>
