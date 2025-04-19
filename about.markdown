@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: ¿Quien esta detras de esto?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<p style="text-align: justify;">
+  ¡Hola! Mi nombre es Daniel, soy el creador de este blog, un gran apasionado del maravilloso mundo del analisis de patrones, teorias categoricas y esquemas (Me encantan los esquemas), donde nos ocuparemos de poder compartir de forma amena, diferentes topicos relacionados a matematicas, utilizando la optica del humor y la ocurrencia para poder explicar temas que tienen en su haber una base rigurosa.
+</p>
