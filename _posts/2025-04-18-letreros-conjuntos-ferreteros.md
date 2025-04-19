@@ -1,6 +1,6 @@
 ---
 title: "Letreros que Cantor amaría: Cuando las advertencias jocosas son conjuntos no numerables"
-date: 2025-03-18
+date: 2025-04-18
 categories: [matemáticas, humor]
 tags: [teoría de conjuntos, Cantor, abstracción]
 seo:
