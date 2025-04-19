@@ -1,8 +1,21 @@
-.post-image {
+// Centrado de imágenes
+.center-image {
   display: block;
-  max-width: 50%;  /* Ajusta este valor (ej: 80% para más grande) */
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
   height: auto;
-  margin: 0 auto 2rem;  /* Centrado vertical y margen inferior */
-  border-radius: 8px;  /* Opcional: bordes redondeados */
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);  /* Opcional: sombra sutil */
+}
+
+// Justificado de texto
+.text-justify {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+// Centrado de títulos
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  text-align: center;
 }
