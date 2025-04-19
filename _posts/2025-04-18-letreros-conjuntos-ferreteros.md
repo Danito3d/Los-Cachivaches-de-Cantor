@@ -20,13 +20,14 @@ Los letreros explicativos —esas muestras gráficas que pueblan negocios— sue
 Cantor demostró que hay infinitos más grandes que otros. y nos dio las herramientas (A parte de quebraderos de cabeza), de como interpretar este tipo de diagramas:
 
 > **Definición axiomatica:**
-![Sistema axiomatico](/Los-Cachivaches-de-Cantor/assets/images/posts/sistema-axiomatico.png)
+
+![Sistema axiomatico](/Los-Cachivaches-de-Cantor/assets/images/posts/sistema-axiomatico1.png)
 
 ## Diagrama de abstraccion
 ![Diagrama de Euler](/Los-Cachivaches-de-Cantor/assets/images/posts/diagrama-euler.png)
-### Relación de contención (Euler)
+# Relación de contención (Euler)
 
-## Conclusión y llamado a la acción
+## Moraleja
 Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferreteria: es un **¡sistema axiomático completo!**. ¿Qué otros objetos cotidianos crees que esconden estructuras de ZF?  
 
 *(P.D.: Si este teorema te parecio interesante, compártelo con ese amigo que siempre dice: "Es simplemente un letrero (¡duh!)".)*
