@@ -28,6 +28,15 @@ url: "https://danito3d.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+jekyll-feed:
+  author:
+    name: "Daniel"
+    email: "dgda1991@gmail"
+    uri: "https://www.facebook.com/profile.php?id=61575577703063&locale=es_LA"  # <-- Enlace a tu Facebook
+  social_links:
+    - name: "Facebook"
+      icon: "facebook"  # Usa icono de Font Awesome
+      url: "https://www.facebook.com/profile.php?id=61575577703063&locale=es_LA"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
