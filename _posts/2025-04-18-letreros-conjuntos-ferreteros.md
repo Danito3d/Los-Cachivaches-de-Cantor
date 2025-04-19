@@ -8,7 +8,7 @@ seo:
   meta_keywords: "humor matemático, teoría de conjuntos, Cantor, axiomas ZF, abstracción, letreros graciosos"
 ---
 
-![Letrero sarcástico en un negocio](/assets/images/posts/letrero-explicativo.jpg)  
+![Letrero]({{ "/assets/images/posts/letrero-explicativo.jpg" | relative_url }})
 *"¿Sabías que este letrero es un producto cartesiano entre el sarcasmo y la teoría de conjuntos?"*
 
 ## La teoría de conjuntos tras los letreros
@@ -25,7 +25,7 @@ Cantor demostró que hay infinitos más grandes que otros. y nos dio las herrami
 
 ## Diagramaa de abstraccion
 ### 1. Relación de contención (Euler)
-![Diagrama de Euler mostrando conjuntos anidados](/assets/images/posts/diagrama-euler.png)  
+![Letrero]({{ "/assets/images/posts/diagrama-euler.png" | relative_url }}) 
 
 ## Conclusión y llamado a la acción
 Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferreteria: es un **¡sistema axiomático completo!**. ¿Qué otros objetos cotidianos crees que esconden estructuras de ZF?  
