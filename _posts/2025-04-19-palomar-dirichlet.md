@@ -35,7 +35,7 @@ seo:
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
-	**Cumpleaños**: Tal como se muestra en la imagen, hay 13 personas celebrando una fiesta, el principio del palomar, nos asegura, que en ese grupo de personas, al menos 2 personas cumplen años el mismo mes, dado a que los **n** integrantes (13) son mayores a los **m** meses donde es posible cumplir años (12).
+	*Cumpleaños*: Tal como se muestra en la imagen, hay 13 personas celebrando una fiesta, el principio del palomar, nos asegura, que en ese grupo de personas, al menos 2 personas cumplen años el mismo mes, dado a que los **n** integrantes (13) son mayores a los **m** meses donde es posible cumplir años (12).
 </p>
 
 <p align="center">
@@ -43,13 +43,7 @@ seo:
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
-	**Zapatos y cajas**: este ejemplo tambien es clasico, y de hecho puede ser visto bajo dos perspectivas, una vez mas, se repite las condiciones explicadas arribas de **n>m**, sin embargo en este caso, podemos tener dos hitos importantes que se pueden afirmar y son isomorfos (Son equivalentes en informacion):
-	
-	
-	**1.**: Al menos un zapato, quedara sin ser guardado en caja.
-	
-	
-	**2.**: Al menos una de las dos cajas, tendra minimo tres zapatos, si se desean guardar todos.
+	*Zapatos y cajas*: este ejemplo tambien es clasico, y de hecho puede ser visto bajo dos perspectivas, una vez mas, se repite las condiciones explicadas arribas de **n>m**, sin embargo en este caso, podemos tener dos hitos importantes que se pueden afirmar y son isomorfos (Son equivalentes en informacion), Al menos un zapato, quedara sin ser guardado en caja y al menos una de las cajas, tendra minimo tres zapatos, si se desean guardar todos.
 </p>
 
 ## Moraleja
