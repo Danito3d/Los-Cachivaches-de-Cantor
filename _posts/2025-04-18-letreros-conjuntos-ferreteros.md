@@ -8,29 +8,38 @@ seo:
   meta_keywords: "humor matemático, teoría de conjuntos, Cantor, axiomas ZF, abstracción, letreros graciosos"
 ---
 
-![Letrero explicativo](/Los-Cachivaches-de-Cantor/assets/images/posts/letrero-explicativo.jpg)
+<p align="center">
+  <img src="{{ '/assets/images/posts/letrero-explicativo.jpg' | relative_url }}" alt="Letrero explicativo" style="max-width: 80%; height: auto;">
+</p>  
 
-*"¿Sabías que este letrero es un producto cartesiano entre el sarcasmo y la teoría de conjuntos?"*
+## La teoría de conjuntos tras los letreros  
 
-## La teoría de conjuntos tras los letreros
+Los letreros explicativos —esas muestras gráficas que pueblan negocios— suelen ser vistos como meras decoraciones (como en la primera parte de la imagen presentada), en la mayoría de los casos. Pero cuando un dueño decide "educar" con sarcasmo a sus clientes (como en este ejemplo), en realidad está escondiendo una **estructura de conjuntos** digna de Cantor (así es, a quien le debemos el nombre de este blog). Hoy develaremos cómo la teoría de conjuntos y los axiomas de ZF explican, incluso, los avisos más absurdos.  
 
-Los letreros explicativos —esas muestras gráficas que pueblan negocios— suelen ser vistos como meras decoraciones (Como en la primera parte de la imagen presentada), en la mayoria de los casos. Pero cuando un dueño decide "educar" con sarcasmo a sus clientes (como en este ejemplo), en realidad está escondiendo una **estructura de conjuntos** digna de Cantor (Asi es, a quien le debemos el nombre de este blog). Hoy develaremos cómo la teoría de conjuntos y los axiomas de ZF explican incluso, los avisos más absurdos.
+### Contexto matemático-humorístico  
 
-### Contexto matemático-humorístico
-Cantor demostró que hay infinitos más grandes que otros. y nos dio las herramientas (A parte de quebraderos de cabeza), de como interpretar este tipo de diagramas:
+Cantor demostró que hay infinitos más grandes que otros y nos dio las herramientas (a parte de quebraderos de cabeza), de cómo interpretar este tipo de diagramas:  
 
-> **Definición axiomatica:**
+> **Definición axiomática:**  
 
-![Sistema axiomatico](/Los-Cachivaches-de-Cantor/assets/images/posts/sistema-axiomatico1.png)
+<p align="center">
+  <img src="{{ '/assets/images/posts/sistema-axiomatico1.png' | relative_url }}" alt="Sistema Axiomatico" style="max-width: 80%; height: auto;">
+</p>  
 
-## Diagrama de abstraccion
-![Diagrama de Euler](/Los-Cachivaches-de-Cantor/assets/images/posts/diagrama-euler.png)
-# Relación de contención (Euler)
+## Diagrama de abstracción  
 
-## Moraleja
-Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferreteria: es un **¡sistema axiomático completo!**. ¿Qué otros objetos cotidianos crees que esconden estructuras de ZF?  
+<p align="center">
+  <img src="{{ '/assets/images/posts/diagrama-euler.png' | relative_url }}" alt="Diagrama de Euler" style="max-width: 80%; height: auto;">
+</p>  
 
-*(P.D.: Si este teorema te parecio interesante, compártelo con ese amigo que siempre dice: "Es simplemente un letrero (¡duh!)".)*
+## Relación de contención (Euler)  
 
-## Referencias
-- [Axiomas ZFC](https://es.wikipedia.org/wiki/Axiomas_de_Zermelo-Fraenkel)
+## Moraleja  
+
+Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferretería: es un **¡sistema axiomático completo!**. ¿Qué otros objetos cotidianos crees que esconden estructuras de ZF?  
+
+*(P.D.: Si este teorema te pareció interesante, compártelo con ese amigo que siempre dice: "Es simplemente un letrero (¡duh!)".)*  
+
+## Referencias  
+- [Axiomas ZFC](https://es.wikipedia.org/wiki/Axiomas_de_Zermelo-Fraenkel)  
+
