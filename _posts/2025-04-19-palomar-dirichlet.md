@@ -20,15 +20,21 @@ El **Principio del Palomar** (o Principio de Dirichlet) nos dice que:
 
 ### Demostración por contradicción
 
-![Demostración formal]({{ "/assets/images/posts/demostracion-palomar.png" | relative_url }}){: .center-image }
+<p align="center">
+  <img src="{{ '/assets/images/posts/demostracion-palomar.png' | relative_url }}" alt="Palomar" style="max-width: 80%; height: auto;">
+</p>
 
 ### Ejemplos sorprendentes
 
-![13 personas con globos de meses]({{ "/assets/images/posts/cumpleanos.png" | relative_url }}){: .center-image }
+<p align="center">
+  <img src="{{ '/assets/images/posts/cumpleanos.png' | relative_url }}" alt="Palomar" style="max-width: 80%; height: auto;">
+</p>
 
 - **13 personas**: Al menos 2 comparten mes de cumpleaños (12 meses < 13 personas).
 
-![5 zapatos en 2 cajas]({{ "/assets/images/posts/zapatos-caja.png" | relative_url }}){: .center-image }
+<p align="center">
+  <img src="{{ '/assets/images/posts/zapatos-caja.png' | relative_url }}" alt="Palomar" style="max-width: 80%; height: auto;">
+</p>
 
 - **5 zapatos en 2 cajas**: Una caja tendrá ≥3 zapatos o uno de los zapatos se quedara afuera.
 
