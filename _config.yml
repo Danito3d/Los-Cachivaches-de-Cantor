@@ -28,15 +28,10 @@ url: "https://danito3d.github.io"
 theme: minima
 plugins:
   - jekyll-feed
-jekyll-feed:
-  author:
-    name: "Daniel"
-    email: "dgda1991@gmail"
-    uri: "https://www.facebook.com/profile.php?id=61575577703063&locale=es_LA"  # <-- Enlace a tu Facebook
-  social_links:
-    - name: "Facebook"
-      icon: "facebook"  # Usa icono de Font Awesome
-      url: "https://www.facebook.com/profile.php?id=61575577703063&locale=es_LA"
+social_links:
+  - name: "Facebook"
+    icon: "facebook"  # Ícono estándar de Minima
+    url: "https://www.facebook.com/profile.php?id=61575577703063&locale=es_LA"
 favicon:  C:\Users\pcnue\Los-Cachivaches-de-Cantor\assets\images
 sass:
   sass_dir: assets/css
