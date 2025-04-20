@@ -8,7 +8,7 @@ seo:
   meta_keywords: "principio del palomar, teorema de Dirichlet, matemáticas divertidas, ejemplos de combinatoria"
 ---
 
-![Palomar y palomas]({{ "/assets/images/posts/palomar.png" | relative_url }})
+<div align="center">![Palomar y palomas]({{ "/assets/images/posts/palomar.png" | relative_url }})</div>
 
 ## ¿Qué relación tienen los palomares, las cajas de zapatos, los cumpleañeros y tus calcetines perdidos?
 
