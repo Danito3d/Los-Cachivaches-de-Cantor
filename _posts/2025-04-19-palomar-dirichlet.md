@@ -12,7 +12,7 @@ seo:
   <img src="{{ '/assets/images/posts/palomar.png' | relative_url }}" alt="Palomar" style="max-width: 80%; height: auto;">
 </p>
 
-## ¿Qué relación tienen los palomares, las cajas de zapatos, los cumpleañeros y tus calcetines perdidos?
+## <p align="center"> <¿Qué relación tienen los palomares, las cajas de zapatos, los cumpleañeros y tus calcetines perdidos?> </p>
 
 El **Principio del Palomar** (o Principio de Dirichlet) nos dice que:
 
