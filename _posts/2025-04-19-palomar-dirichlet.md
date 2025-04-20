@@ -8,7 +8,7 @@ seo:
   meta_keywords: "principio del palomar, teorema de Dirichlet, matemáticas divertidas, ejemplos de combinatoria"
 ---
 
-<div align="center">![Palomar y palomas]({{ "/assets/images/posts/palomar.png" | relative_url }})</div>
+![Palomar y palomas]({{ "/assets/images/posts/palomar.png" | relative_url }}){: .center-image }
 
 ## ¿Qué relación tienen los palomares, las cajas de zapatos, los cumpleañeros y tus calcetines perdidos?
 
@@ -18,15 +18,15 @@ El **Principio del Palomar** (o Principio de Dirichlet) nos dice que:
 
 ### Demostración por contradicción
 
-![Demostración formal]({{ "/assets/images/posts/demostracion-palomar.png" | relative_url }})
+![Demostración formal]({{ "/assets/images/posts/demostracion-palomar.png" | relative_url }}){: .center-image }
 
 ### Ejemplos sorprendentes
 
-![13 personas con globos de meses]({{ "/assets/images/posts/cumpleanos.png" | relative_url }})
+![13 personas con globos de meses]({{ "/assets/images/posts/cumpleanos.png" | relative_url }}){: .center-image }
 
 - **13 personas**: Al menos 2 comparten mes de cumpleaños (12 meses < 13 personas).
 
-![5 zapatos en 2 cajas]({{ "/assets/images/posts/zapatos-caja.png" | relative_url }})
+![5 zapatos en 2 cajas]({{ "/assets/images/posts/zapatos-caja.png" | relative_url }}){: .center-image }
 
 - **5 zapatos en 2 cajas**: Una caja tendrá ≥3 zapatos o uno de los zapatos se quedara afuera.
 
