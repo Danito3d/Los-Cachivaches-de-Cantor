@@ -15,7 +15,9 @@ seo:
 ## ¿Qué relación tienen los palomares, las cajas de zapatos, los cumpleañeros y tus calcetines perdidos?
 
 <p style="text-align: justify; text-justify:inner-word;">
+
 	El **Principio del Palomar** (o Principio de Dirichlet), a pesar de su frecuente uso, dentro no solo de las ramas matematicas, sino tambien, de ciencias de la informacion, e incluso en areas propias de la logistica y planificacion, es un concepto que pasa inadvertido por diferentes razones en cuanto a su obviedad, y la falta de detenimiento, pero cuantas veces no nos hemos visto, en escenarios, donde hemos salido de una fiesta, y somos muchos mas de lo que un automovil puede ceder en espacio, y tenemos que pensar en una idea para optimizar los recursos (Mas taxis/Pagar mas o ir apretados/pagar menos), y es alli donde podemos atender al principio que nos dice (Bajo esta version), muy informalmente, lo siguiente.
+	
 </p>
 
 > "Si **n** fiesteros, planean distribuirse en **m** taxis, con **n > m**, ¡entonces al menos un taxi tendrá más de cuatro fiesteros!."
