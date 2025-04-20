@@ -14,11 +14,15 @@ seo:
 
 ## La teoría de conjuntos tras los letreros  
 
-Los letreros explicativos —esas muestras gráficas que pueblan negocios— suelen ser vistos como meras decoraciones (como en la primera parte de la imagen presentada), en la mayoría de los casos. Pero cuando un dueño decide "educar" con sarcasmo a sus clientes (como en este ejemplo), en realidad está escondiendo una **estructura de conjuntos** digna de Cantor (así es, a quien le debemos el nombre de este blog). Hoy develaremos cómo la teoría de conjuntos y los axiomas de ZF explican, incluso, los avisos más absurdos.  
+<p style="text-align: justify; text-justify:inner-word;">
+	Los letreros explicativos —esas muestras gráficas que pueblan negocios— suelen ser vistos como meras decoraciones (como en la primera parte de la imagen presentada), en la mayoría de los casos.Pero cuando un dueño decide "educar" con sarcasmo a sus clientes (como en este ejemplo), en realidad está escondiendo una **estructura de conjuntos** digna de Cantor (así es, a quien le debemos el nombre de este blog). Hoy develaremos cómo la teoría de conjuntos y los axiomas de ZF explican, incluso, los avisos más absurdos.
+</p>
 
-### Contexto matemático-humorístico  
+### Entre cachivaches, chirimbolos y cosos  
 
-Cantor demostró que hay infinitos más grandes que otros y nos dio las herramientas (a parte de quebraderos de cabeza), de cómo interpretar este tipo de diagramas:  
+<p style="text-align: justify; text-justify:inner-word;">
+	Cantor demostró que hay infinitos más grandes que otros y nos dio las herramientas (a parte de quebraderos de cabeza), de cómo interpretar estructuras, en donde estuviese bien definido grupos, agrupaciones o reunion de elementos (Notese que uso este termino de esta forma) ya que si bien, la teoria de conjuntos es un pilar fundamental dentro de las matematicas, no existe un concenso sobre el uso correcto de la palabra, por lo que las tres dadas se usan de forma intercambiable a falta de un concepto mas riguroso, procedemos a definir de forma axiomatica, nuestro descubrimiento con los cosos-pedronchos, chirimbolos y cachivaces, y daremos un vistazo del diagrama Euleriano referente a lo dicho por la definicion axiomatica.
+</p>
 
 > **Definición axiomática:**  
 
@@ -26,17 +30,16 @@ Cantor demostró que hay infinitos más grandes que otros y nos dio las herramie
   <img src="{{ '/assets/images/posts/sistema-axiomatico1.png' | relative_url }}" alt="Sistema Axiomatico" style="max-width: 80%; height: auto;">
 </p>  
 
-## Diagrama de abstracción  
+### Diagrama de abstracción  
 
 <p align="center">
   <img src="{{ '/assets/images/posts/diagrama-euler.png' | relative_url }}" alt="Diagrama de Euler" style="max-width: 80%; height: auto;">
 </p>  
 
-## Relación de contención (Euler)  
-
 ## Moraleja  
-
-Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferretería: es un **¡sistema axiomático completo!**. ¿Qué otros objetos cotidianos crees que esconden estructuras de ZF?  
+<p style="text-align: justify; text-justify:inner-word;">
+	Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferretería: es un **¡sistema axiomático completo!**. ¿Quéotros objetos cotidianos crees que esconden estructuras de ZF?  
+</p>
 
 *(P.D.: Si este teorema te pareció interesante, compártelo con ese amigo que siempre dice: "Es simplemente un letrero (¡duh!)".)*  
 
