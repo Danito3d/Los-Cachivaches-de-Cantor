@@ -54,3 +54,7 @@ seo:
 
 ## Referencia Bibliográfica
 - [Principio del Palomar - Wikipedia](https://es.wikipedia.org/wiki/Principio_del_palomar#Generalización_y_demostración)
+
+¿Consideras que este post te ha gustado, y deseas contribuir a que el proyecto siga adelante?
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C41DTDL2)
