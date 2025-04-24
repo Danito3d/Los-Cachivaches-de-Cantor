@@ -10,7 +10,13 @@ seo:
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/zenon-computador.png' | relative_url }}" alt="Zenon en compu" style="max-width: 80%; height: auto;">
+  <img src="{{ '/assets/images/posts/zenon-computador.png' | relative_url }}" 
+       alt="Zenon en compu" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    Zenón de Elea desbordando la pila del Universo con sus paradojas
+  </span>
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
