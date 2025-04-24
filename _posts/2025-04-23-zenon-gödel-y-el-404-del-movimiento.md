@@ -56,7 +56,7 @@ seo:
 </p>
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/convergencia.uno.png' | relative_url }}" 
+  <img src="{{ '/assets/images/posts/convergencia-uno.png' | relative_url }}" 
        alt="Convergencia de serie geometrica" 
        style="max-width: 80%; height: auto;">
   <br>

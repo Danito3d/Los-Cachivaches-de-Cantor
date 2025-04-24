@@ -54,10 +54,10 @@ seo:
   </span>
 </p>
 
-### Moraleja  
-<p style="text-align: justify; text-justify:inner-word;">
-	Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferretería: es un **¡sistema axiomático completo!**. ¿Quéotros objetos cotidianos crees que esconden estructuras de ZF?  
-</p>
+### ¿Que nos podemos llevar de esto? 
+
+>* "Este letrero no es solo una queja de los clientes hecha por el dueño, que no manejan la jerga necesaria para pedir lo correcto dentro de su ferretería: es un **¡sistema axiomático completo!**. ¿Quéotros objetos cotidianos crees que esconden estructuras de ZF?"* 
+
 
 *(P.D.: Si este teorema te pareció interesante, compártelo con ese amigo que siempre dice: "Es simplemente un letrero (¡duh!)".)*
 

@@ -65,7 +65,7 @@ seo:
 </p>
 
 ### Moraleja
-¡Las matemáticas explican por qué siempre pierdes calcetines o sobran amigos en las salidas!
+> *"¡Las matemáticas explican por qué siempre pierdes calcetines o sobran amigos en las salidas!"*
 
 ### ¿Y tú?
 ¿Alguna vez has sido la "paloma sobrante"? ¡De ser asi y si te ha gustado este post, compartelo, que nunca seran mas los mensajes enviados que quienes los recibem!
