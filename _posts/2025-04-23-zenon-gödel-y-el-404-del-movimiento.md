@@ -9,9 +9,10 @@ seo:
   meta_keywords: "paradojas, paradoja de zenon, aquiles y la tortuga, recursividad, teorema de godel, movimiento, espacios discretos" 
 ---
 
-<p align="center">
-  <img src="{{ '/assets/images/posts/zenon-computador.png' | relative_url }}" alt="Zenon en compu" style="max-width: 80%; height: auto;">
-</p>  
+<figure style="text-align: center;">
+  <img src="/assets/images/zenon-computador.png" alt="Zenón como hacker" style="max-width: 80%;">
+  <figcaption style="font-size: 0.8em; color: #666;">Fig. 1 - Zenón programando paradojas</figcaption>
+</figure>
 
 <p style="text-align: justify; text-justify:inner-word;">
 	Es bien conocido en filosofía la primera paradoja de <strong>Zenón de Elea</strong>, quien —mucho antes de que existiera el calendario juliano— propuso, a modo de "demostración" de su idea de inmovilidad, una anécdota protagonizada por **Aquiles y una tortuga**. Un día (de forma muy espontánea), deciden correr una carrera. Por consideración a la *ridícula* velocidad del animal 🐢, el héroe griego le concede 100 metros de ventaja (sí, omitamos que el metro se inventó en 1792). Cuando Aquiles sale corriendo 💨, y Zenón nos afirma lo siguiente:
@@ -47,7 +48,7 @@ Hoy vemos esto en:
 - **Timeouts**: Los sistemas imponen *límites pragmáticos* (como el cálculo impone límites a series infinitas).  
 
 <figure class="text-center">
-  <img src="/assets/images/posts/cargando-bucle.gif" 
+  <img src="/assets/images/posts/cargandon-bucle.gif" 
        alt="Loading infinite loop"
        class="img-fluid rounded"
        style="max-width: 80%; height: auto;">
