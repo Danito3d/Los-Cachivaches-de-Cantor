@@ -32,7 +32,7 @@ social_links:
   - name: "Facebook"
     icon: "facebook"  # Ícono estándar de Minima
     url: "https://www.facebook.com/profile.php?id=61575577703063&locale=es_LA"
-favicon:  C:\Users\pcnue\Los-Cachivaches-de-Cantor\assets\images
+favicon: /assets/images/favicon.ico
 sass:
   sass_dir: assets/css
 # Exclude from processing.
