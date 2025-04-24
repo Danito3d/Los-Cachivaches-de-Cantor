@@ -52,7 +52,9 @@ seo:
 ## ¿Y tú?
 ¿Alguna vez has sido la "paloma sobrante"? ¡De ser asi y si te ha gustado este post, compartelo, que nunca seran mas los mensajes enviados que quienes los recibem!
 
-## Referencia Bibliográfica
+---
+
+## Sigue este vinculo, si deseas mas informacion:
 - [Principio del Palomar - Wikipedia](https://es.wikipedia.org/wiki/Principio_del_palomar#Generalización_y_demostración)
 
 ¿Consideras que este post te ha gustado, y deseas contribuir a que el proyecto siga adelante?

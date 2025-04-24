@@ -43,7 +43,7 @@ seo:
 
 *(P.D.: Si este teorema te pareció interesante, compártelo con ese amigo que siempre dice: "Es simplemente un letrero (¡duh!)".)*  
 
-## Referencias  
+## Por si te interesa leer mas: 
 - [Axiomas ZFC](https://es.wikipedia.org/wiki/Axiomas_de_Zermelo-Fraenkel) 
 
 ¿Consideras que este post te ha gustado, y deseas contribuir a que el proyecto siga adelante?
