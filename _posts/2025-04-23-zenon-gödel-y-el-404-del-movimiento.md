@@ -14,7 +14,7 @@ seo:
 </p>  
 
 <p style="text-align: justify; text-justify:inner-word;">
-	Es bien conocido en filosofía la primera paradoja de **Zenón de Elea**, quien —mucho antes de que existiera el calendario juliano— propuso, a modo de "demostración" de su idea de inmovilidad, una anécdota protagonizada por **Aquiles y una tortuga**. Un día (de forma muy espontánea), deciden correr una carrera. Por consideración a la *ridícula* velocidad del animal 🐢, el héroe griego le concede 100 metros de ventaja (sí, omitamos que el metro se inventó en 1792). Cuando Aquiles sale corriendo 💨, y Zenón nos afirma lo siguiente:
+	Es bien conocido en filosofía la primera paradoja de <strong>Zenón de Elea</strong>, quien —mucho antes de que existiera el calendario juliano— propuso, a modo de "demostración" de su idea de inmovilidad, una anécdota protagonizada por **Aquiles y una tortuga**. Un día (de forma muy espontánea), deciden correr una carrera. Por consideración a la *ridícula* velocidad del animal 🐢, el héroe griego le concede 100 metros de ventaja (sí, omitamos que el metro se inventó en 1792). Cuando Aquiles sale corriendo 💨, y Zenón nos afirma lo siguiente:
 </p>
 
 <p align="center">
@@ -46,9 +46,13 @@ Hoy vemos esto en:
 - **Recursión infinita**: Un programa que se llama a sí mismo hasta colapsar.  
 - **Timeouts**: Los sistemas imponen *límites pragmáticos* (como el cálculo impone límites a series infinitas).  
 
-<p align="center">
-  <img src="{{ '/assets/images/posts/cargando-bucle.gif' | relative_url }}" alt="Loading,loading and loading" style="max-width: 80%; height: auto;">
-</p>  
+<figure class="text-center">
+  <img src="/assets/images/posts/cargando-bucle.gif" 
+       alt="Loading infinite loop"
+       class="img-fluid rounded"
+       style="max-width: 80%; height: auto;">
+  <figcaption class="mt-2 text-muted">La paradoja de Zenón en acción: ¡carga eterna!</figcaption>
+</figure>
 
 ### Aprendizaje que llevarse 
 > *"Si tu vida es un código, no escribas bucles zenonianos. Usa tu consciencia de *meta-nivel* para imponer límites y converger hacia tus metas."*  
