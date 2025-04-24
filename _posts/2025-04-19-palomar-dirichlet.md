@@ -9,7 +9,13 @@ seo:
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/palomar.png' | relative_url }}" alt="Palomar" style="max-width: 80%; height: auto;">
+  <img src="{{ '/assets/images/posts/palomar.png' | relative_url }}" 
+       alt="Palomar con palomaas" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    Siempre habra incomodidad en un palomar con mas palomas, que agujeros de refugio.
+  </span>
 </p>
 
 ### ¿Qué relación tienen los palomares, las cajas de zapatos, los cumpleañeros y tus calcetines perdidos?
@@ -31,7 +37,13 @@ seo:
 ### Ejemplos sorprendentes y ¡que sirven como datos interesantes!
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/cumpleanos.png' | relative_url }}" alt="Palomar" style="max-width: 80%; height: auto;">
+  <img src="{{ '/assets/images/posts/cumpleanos.png' | relative_url }}" 
+       alt="Reunion de cumpleaños" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    ¿En un lugar que tantas personas pueden cumplir el mismo mes?
+  </span>
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
@@ -39,7 +51,13 @@ seo:
 </p>
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/zapatos-caja.png' | relative_url }}" alt="Palomar" style="max-width: 80%; height: auto;">
+  <img src="{{ '/assets/images/posts/zapatos-caja.png' | relative_url }}" 
+       alt="Caja de zapatos menores a zapatos" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    ¿Cabran todos los zapatos de forma bien distribuida?
+  </span>
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">

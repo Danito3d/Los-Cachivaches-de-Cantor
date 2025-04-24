@@ -9,8 +9,14 @@ seo:
 ---
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/letrero-explicativo.jpg' | relative_url }}" alt="Letrero explicativo" style="max-width: 80%; height: auto;">
-</p>  
+  <img src="{{ '/assets/images/posts/letrero-explicativo.jpg' | relative_url }}" 
+       alt="Letrero ferretero" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    La primera parte del letrero, nos describe un sistema axiomatico, aplicado a conjuntos.
+  </span>
+</p>
 
 ### La teoría de conjuntos tras los letreros  
 
@@ -27,14 +33,26 @@ seo:
 > **Definición axiomática:**  
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/sistema-axiomatico1.png' | relative_url }}" alt="Sistema Axiomatico" style="max-width: 80%; height: auto;">
-</p>  
+  <img src="{{ '/assets/images/posts/sistema-axiomatico1.png' | relative_url }}" 
+       alt="Definicion axiomatica" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    Los sistemas formales, como este, nos ayuda a reproducir teoremas, en forma de verdades basadas en dichos axiomas.
+  </span>
+</p>
 
 ### Diagrama de abstracción  
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/diagrama-euler.png' | relative_url }}" alt="Diagrama de Euler" style="max-width: 80%; height: auto;">
-</p>  
+  <img src="{{ '/assets/images/posts/diagrama-euler.png' | relative_url }}" 
+       alt="Diagrama de Euler" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    En este diagrama, podemos observar la relacion de contencion entre conjuntos y funcion que existe entre subconjuntos del sistema.
+  </span>
+</p>
 
 ### Moraleja  
 <p style="text-align: justify; text-justify:inner-word;">

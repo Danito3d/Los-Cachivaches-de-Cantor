@@ -15,7 +15,7 @@ seo:
        style="max-width: 80%; height: auto;">
   <br>
   <span style="font-size: 0.85em; color: #666; font-style: italic;">
-    Zenón de Elea desbordando la pila del Universo con sus paradojas
+    Zenón de Elea, desbordando la "pila" del Universo con sus paradojas.
   </span>
 </p>
 
@@ -24,14 +24,26 @@ seo:
 </p>
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/aquiles-tortuga.png' | relative_url }}" alt="Competencia Aquiles y tortuga" style="max-width: 80%; height: auto;">
-</p>  
+  <img src="{{ '/assets/images/posts/aquiles-tortuga.png' | relative_url }}" 
+       alt="Competencia entre Aquiles y la tortuga" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    Visualizacion simple de las condiciones de carrera entre Aquiles y la Tortuga.
+  </span>
+</p>
 
 > *"Si las distancias son espacios discretos divisibles infinitamente, Aquiles debe recorrer infinitos puntos antes de alcanzar a la tortuga. Ergo, **nunca** la alcanzará."* 🤯  
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/longitud-infinito.png' | relative_url }}" alt="Infinitos espacios discretos" style="max-width: 80%; height: auto;">
-</p>  
+  <img src="{{ '/assets/images/posts/longitud-infinito.png' | relative_url }}" 
+       alt="Divisiones de espacios infinitos" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    Representacion grafica de divisiones de espacios entre mitades de forma recurrente, segun Zenon.
+  </span>
+</p>
 
 <p style="text-align: justify; text-justify:inner-word;">
 	Pero el sentido común dice que Aquiles <strong>sí</strong> la alcanza. ¿Dónde está el truco? Aquí entra nuestro buen amigo <strong>Gödel</strong> con sus <strong>Teoremas de Incompletitud</strong>, que demuestran que:  
@@ -44,7 +56,13 @@ seo:
 </p>
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/convergencia-uno.png' | relative_url }}" alt="Convergencia" style="max-width: 80%; height: auto;">
+  <img src="{{ '/assets/images/posts/convergencia.uno.png' | relative_url }}" 
+       alt="Convergencia de serie geometrica" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    Convergencia de serie geometrica, meta sistema basado en calculo infinitesimal.
+  </span>
 </p>
 
 ### Una conexion actual
