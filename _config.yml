@@ -27,7 +27,7 @@ url: "https://danito3d.github.io"
 # Build settings
 theme: minima
 #plugins:
- # - jekyll-feed
+  - jekyll-seo-tag
 social_links:
   - name: "Facebook"
     icon: "facebook"  # Ícono estándar de Minima
