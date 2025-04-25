@@ -66,7 +66,7 @@ seo:
 
     donde:
     - \( t_k \leq 45 \text{ min} \): Duración máxima tolerable por episodio.
-    - \( Cantidad_snacks \neq \varnothing \): ¡Snacks disponibles son esenciales! 🍿
+    - \( CantidadSnacks \neq \varnothing \): ¡Snacks disponibles son esenciales! 🍿
 </p>
 <br>
 
