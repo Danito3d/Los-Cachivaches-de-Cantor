@@ -20,7 +20,7 @@ seo:
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
-    ¿Cuántos no hemos estado en la posición de querer ver <strong>"La serie nueva del momento"</strong> de esa serie que nos obsesiona? 🌟 Pero cuando intentas convencer a tu pareja, te encuentras con un <strong>"¡No!"</strong> rotundo 💔. Hoy descubrirás cómo el <strong>principio de inducción matemática</strong> puede ser tu mejor aliado (o tu excusa más elaborada).  
+    ¿Cuántos no hemos estado en la posición de querer ver <strong>"La serie nueva del momento"</strong> de la cual todos parecen tener una obsesion? 🌟 Pero cuando intentamos convencer a nuestra pareja, nos encontramos con un rotundo <strong>"¡No!"</strong> 💔. Hoy descubrirás cómo el <strong>principio de inducción matemática</strong> puede ser tu mejor aliado (o tu excusa más elaborada).  
 </p>
 
 <p align="center">
