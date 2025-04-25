@@ -43,7 +43,7 @@ seo:
 
 
 <p align="center">
-  <img src="{{ '/assets/images/posts/pareja-netflix.png' | relative_url }}" 
+  <img src="{{ '/assets/images/posts/snacks-aburrimiento.png' | relative_url }}" 
        alt="Condicion para seguir viendo serie" 
        style="max-width: 80%; height: auto;">
   <br>
@@ -73,7 +73,7 @@ seo:
 
 ### El algoritmo de persuasión (En simple)
 1. **Caso base**: *"Amor, es SOLO 40 minutos... y mira, ¡tiene a ese actor que te gusta!"* 😇  
-2. **Paso inductivo**: *"¿Un episodio más? ¡Quedó en suspenso!"* (requiere: 🍫 y 😊) sino, la paciencia decaera como la siguiente imagen donde se tienen 5 snacks y estos se acaban conforme pasan los episodios
+2. **Paso inductivo**: *"¿Un episodio más? ¡Quedó en suspenso!"* (requiere: 🍫 y 😊) sino, la paciencia decaera como la siguiente imagen donde se tienen 5 snacks y estos se acaban conforme pasan los episodios.
 
 
 <p align="center">
