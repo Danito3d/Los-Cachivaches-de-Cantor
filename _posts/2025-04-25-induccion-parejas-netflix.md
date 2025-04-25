@@ -20,7 +20,7 @@ seo:
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
-    ¿Cuántos no hemos estado en la posición de querer ver <strong>"La serie nueva del momento"</strong> de la cual todos parecen tener una obsesion? 🌟 Pero cuando intentamos convencer a nuestra pareja, nos encontramos con un rotundo <strong>"¡No!"</strong> 💔. Hoy descubrirás cómo el <strong>principio de inducción matemática</strong> puede ser tu mejor aliado (o tu excusa más elaborada).  
+    ¿Cuántos no hemos estado en la posición de querer ver <strong>"La serie nueva del momento"</strong> de la cual todos parecen tener una obsesion? 🌟 Pero cuando intentamos convencer a nuestra pareja, nos encontramos con un rotundo <strong>"¡No!"</strong> 💔. Pues bueno, para esos casos, hoy descubrirás cómo el <strong>principio de inducción matemática</strong> puede ser tu mejor aliado (o tu excusa más elaborada).  
 </p>
 
 <p align="center">
@@ -53,9 +53,8 @@ seo:
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
-    De todas formas, y como se puede intuir, hay que saber que la inducción clásica obviamente falla en la vida real, porque <strong>las personas no son números naturales, ni dominos</strong> 😅. Por lo que es necesario, que le demos salvedad a nuestra definicion a modo de darle un poco de orden al comportamiento caotico, propio de los seres humanos, y esto lo podemos hacer definiendo nuestro caso de base como:
+    De todas formas, y como se puede intuir, hay que saber que la inducción clásica obviamente falla en la vida real, porque <strong>las personas no son números naturales, ni dominos</strong> 😅. Por lo que es necesario, que le demos salvedad a nuestra definicion para darle un poco de orden al comportamiento caotico, propio de los seres humanos, y esto lo podemos hacer definiendo nuestro caso de base como:
 </p>
-
 <p style="text-align: justify;">
 
     $$
@@ -67,9 +66,9 @@ seo:
 
     donde:
     - \( t_k \leq 45 \text{ min} \): Duración máxima tolerable por episodio.
-    - \( Cantidad de snacks \neq \varnothing \): ¡Snacks disponibles son esenciales! 🍿
+    - \( Cantidad_snacks \neq \varnothing \): ¡Snacks disponibles son esenciales! 🍿
 </p>
-
+<br>
 
 ### El algoritmo de persuasión (En simple)
 1. **Caso base**: *"Amor, es SOLO 40 minutos... y mira, ¡tiene a ese actor que te gusta!"* 😇  
