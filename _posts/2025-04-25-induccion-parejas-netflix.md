@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "Inducción Emocional: Cómo Matemáticamente Engañarte Para Ver Otro Episodio"  
+title: "Inducción Emocional: como persuadir matematicamente para ver un episodio más"  
 date: 2025-04-25
 categories: [matemáticas, humor]
 tags: [inducción matemática, pareja, netflix, recursión]
