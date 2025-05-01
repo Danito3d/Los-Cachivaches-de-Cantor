@@ -57,8 +57,8 @@ seo:
 - <i>Verificar el sándwich de Ana</i>. Ella exige:<br>
   • Pan, tostado el de la parte superior,<br>
   • Hamburguesa, que sea vegana, bien cocida,<br>
-  • Queso cheddar<strong>solo</strong> si el queso está en triangulos,<br>
-  • Tomate<strong>solo</strong> si es cherry, y justo con otras exigencias absurdas...<br>
+  • Queso cheddar <strong>solo</strong> si el queso está en triangulos,<br>
+  • Tomate <strong>solo</strong> si es cherry, y justo con otras exigencias absurdas...<br>
   <strong>Complejidad:</strong> O(n) hasta O(n^2) (revisar ingrediente por ingrediente).
 </p>
 
