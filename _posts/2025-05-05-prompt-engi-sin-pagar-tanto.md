@@ -99,8 +99,9 @@ seo:
 ## La Función 𝒫: Una Propuesta de Generalización
 
 \[
-\mathscr{P}\Big(\mathtt{Ins} \mid \mathcal{C}_{\text{Ins}} + \varepsilon,\ \mathcal{D}_{\text{in}},\ \mathtt{Sal} \mid \mathcal{C}_{\text{Sal}}}\Big) \to \mathbb{R}
+\mathscr{P}\Big(\mathtt{Ins} \mid \mathcal{C}_{\text{Ins}} + \varepsilon,\ \mathcal{D}_{\text{in}},\ \mathtt{Sal} \mid \mathcal{C}_{\text{Sal}}\Big) \to \mathbb{R}
 \]
+
 
 ### Componentes:
 1. **𝒫 (Función de Prompt):** Transforma entradas en respuestas  
@@ -141,9 +142,9 @@ seo:
 
 ## ¿Por Qué los Cursos de $300 Son un Timo?
 
-**Matemática del engaño:**  
-- Ellos venden: $\text{Diploma} = 300\$ \times \text{FOMO}$  
-- Tú necesitas: $\text{Sentido común} + \text{Paciencia}$
+<strong>Esto puede ser facilmente explicado bajo lo que te venden vs lo que necesitas:</strong><br>
+<strong>- Ellos venden:</strong> 300$ + Diploma + FOMO = Exito en prompts<br>
+<strong>- Tú solo necesitas necesitas:</strong> Sentido comun + Paciencia<br>
 
 **Ejemplo real:** Un "experto" cobra $300 por enseñar a usar emojis en prompts. 😱
 
