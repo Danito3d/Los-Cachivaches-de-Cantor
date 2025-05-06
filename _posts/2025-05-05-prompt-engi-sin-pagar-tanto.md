@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "Prompt Engineering y la forma en que se paga 300$ por un curso, para aprender a decir "gracias" a un LLM"  
-date: 2025-05-04
+date: 2025-05-05
 categories: [IA, humor]
 tags: [prompt engineering, LLMs, matemáticas, crítica social]
 seo:
