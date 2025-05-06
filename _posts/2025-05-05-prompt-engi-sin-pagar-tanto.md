@@ -1,14 +1,13 @@
 ---
-layout: post  
-title: "Prompt Engineering, o como pagar 300$ para aprender a decir "gracias" a un agente LLM"  
-date: 2025-05-05
-categories: [matemáticas, humor]
-tags: [inteligencia artificial, prompt engineering, lenguaje natural, llm, cursos]
+layout: post
+title: "Prompt Engineering: La Fórmula Matemática que los Cursos de $500 No Quieren que Conozcas"
+date: 2025-05-05 00:00:00 +0000
+categories: [IA, humor]
+tags: [prompt engineering, LLMs, matemáticas, crítica social]
 seo:
-  meta_description: "Descubre como los cursos de prompt engineering no tienen nada especial sobre tu poder de comunicacion natural y razonamiento humano"
-  meta_keywords: "inteligencia artificial, prompt engineering, lenguaje natural, llm, cursos" 
+  meta_description: "Descubre cómo una simple función 𝒫(Ins, En, Salida) desmonta los caros cursos de prompt engineering."
+  meta_keywords: "prompt engineering, función de prompts, crítica a cursos de IA, humor tecnológico"
 ---
-
 <p align="center">
   <img src="{{ '/assets/images/posts/prompt-fun.png' | relative_url }}" 
        alt="Problemas de comunicacion con LLM" 
