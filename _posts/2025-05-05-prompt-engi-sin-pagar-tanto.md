@@ -24,15 +24,15 @@ seo:
 	<strong> Disclaimer: Los prompt y sus resultados han sido realizados en DeepSeek-Web (no R1) y con calls al API de ChatGPT 3.5 </strong>
 </p>
 
-### 🎓 Las 15+1 Técnicas Traducidas a "Humano"
+###Las 15+1 Técnicas Traducidas a "Humano"
 <p style="text-align: justify; text-justify:inner-word;">
 <strong>Lo que enseñan los cursos:</strong> Nombres pomposos como "few-shot learning/one-shot/chain of thoughts".<br>
 <strong>Lo que realmente son:</strong>  
 </p
-
-1. **One-shot**  
-   - *Curso*: "Añade un vector de entrenamiento, con input-output, para que el modelo lo use de ejemplo".  
-   - *Humano*: <i>"CALCULA el IGV de estos montos, sabiendo que el IGV se calcula asi"</i>.
+<br>
+<strong>1. One-shot</strong><br>
+   <strong>-Curso</strong>: "Añade un vector de entrenamiento, con input-output, para que el modelo lo use de ejemplo".<br>  
+   <strong>-Humano</strong>: <italic>"CALCULA el IGV de estos montos, sabiendo que el IGV se calcula asi"</italic>.
    
 <p align="center">
   <img src="{{ '/assets/images/posts/prompt-one-shot.png' | relative_url }}" 
@@ -44,9 +44,9 @@ seo:
   </span>
 </p>
 
-2. **Contexto**  
-   - *Curso*: "Añade metadata para alinear el espacio vectorial".  
-   - *Humano*: <i>"BUSCAME el abrigo, el ROJO, no el azul que parece sábana fantasma"</i>.
+<strong>2. Contexto</strong><br>
+   <strong>Curso</strong>: "Añade metadata para alinear el espacio vectorial".<br>
+   <strong>Humano</strong>: <italic>"BUSCAME el abrigo, el ROJO, no el azul que parece sábana fantasma"</italic>.
 
 <p align="center">
   <img src="{{ '/assets/images/posts/prompt-context.png' | relative_url }}" 
@@ -58,9 +58,9 @@ seo:
   </span>
 </p>
 
-3. **Cadena de pensamiento**  
-   - *Curso*: "Descomposición recursiva de intenciones semánticas".  
-   - *Humano*: <i>"CORTA el pelo así... no, así no... ¡como en la foto de Pinterest!"</i>. 
+<strong>3. Cadena de pensamiento</strong><br> 
+   <strong>Curso</strong>: "Descomposición recursiva de intenciones semánticas".<br>
+   <strong>Humano</strong>: <italic>"CORTA el pelo así... no, así no... ¡como en la foto de Pinterest!"</italic>. 
 
 <p align="center">
   <img src="{{ '/assets/images/posts/prompt-chot-1.png' | relative_url }}" 
@@ -93,10 +93,10 @@ seo:
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
-	Se entiende que no se explica de forma extensiva todas las tecnicas involucradas y de caracter popular en el Prompt engineering, sin embargo, solo basta una pequeña busqueda para entender que todas tienen patrones de diseño, bastante parecidas, y resulta conveniente nombrar esta seccion "15+1", puesto que ese +1, no es mas que una tecnica llamada "GraphPrompt", que posee en su haber un formalismo mas elegante basado en grafos, vectores y patrones de homomorfismos, de tal forma que profundizaremos en esta tecnica en una entrada futura del blog.
+	Se entiende que <strong>no se explica de forma extensiva todas las tecnicas involucradas y de caracter popular en el Prompt engineering</strong>, sin embargo, solo basta una pequeña busqueda para entender que todas tienen patrones de diseño, bastante parecidas, y resulta conveniente nombrar esta seccion "15+1", puesto que ese +1, no es mas que una tecnica llamada <strong>"GraphPrompt"</strong>, que posee en su haber un formalismo mas elegante basado en grafos, vectores y patrones de homomorfismos, de tal forma que profundizaremos en esta tecnica en una entrada futura del blog.
 </p>
 
-### 🧮 La Función P: Una propuesta de generalizacion
+###La Función P: Una propuesta de generalizacion
 <p style="text-align: justify; text-justify:inner-word;">
 <strong>Ecuación salvadora:</strong><br>
 \[
@@ -104,37 +104,37 @@ seo:
 \]
  
 <strong>Donde:</strong><br>
-- **𝒫** (Función de Prompt):  
-  *Proceso que transforma entradas en respuestas del agente IA*  
-  - Ejemplo: `"Traduce esto" → "Bonjour"`
+- **𝒫** (Función de Prompt):  <br>
+  *Proceso que transforma entradas en respuestas del agente IA*  <br>
+  - Ejemplo: `"Traduce esto" → "Bonjour"`<br>
 
-- **Ins** (Instrucción):  
-  *Directriz principal para la IA*  
-  - Ejemplo: `"Resume este texto"`
+- **Ins** (Instrucción):  <br>
+  *Directriz principal para la IA*  <br>
+  - Ejemplo: `"Resume este texto"`<br>
 
-- **𝒞<sub>Ins</sub>** (Contexto de Instrucción):  
-  *Marco de referencia para la instrucción*  
-  - Si no existe: `𝒞<sub>Ins</sub> = 0`  
-  - Ejemplo: `"Como experto en biología..."`
+- **𝒞<sub>Ins</sub>** (Contexto de Instrucción):  <br>
+  *Marco de referencia para la instrucción*  <br>
+  - Si no existe: `𝒞<sub>Ins</sub> = 0`  <br>
+  - Ejemplo: `"Como experto en biología..."`<br>
 
-- **ε** (Ruido/Aleatoriedad):  
-  *Ambigüedad no intencional en la instrucción*  
-  - Ejemplo: `"Haz algo creativo"` (¿Qué es "creativo" para la IA?)
+- **ε** (Ruido/Aleatoriedad):  <br>
+  *Ambigüedad no intencional en la instrucción*  <br>
+  - Ejemplo: `"Haz algo creativo"` (¿Qué es "creativo" para la IA?)<br>
 
-- **𝒟<sub>in</sub>** (Datos de Entrada):  
-  *Información proporcionada a la IA*  
-  - Ejemplo: `Ejemplos, conceptos o datos crudos`
+- **𝒟<sub>in</sub>** (Datos de Entrada):  <br>
+  *Información proporcionada a la IA*  <br>
+  - Ejemplo: `Ejemplos, conceptos o datos crudos`<br>
 
-- **Sal** (Salida Esperada):  
-  *Formato/estructura deseada para la respuesta*  
-  - Ejemplo: `"En formato de tabla"`
+- **Sal** (Salida Esperada):  <br>
+  *Formato/estructura deseada para la respuesta*  <br>
+  - Ejemplo: `"En formato de tabla"`<br>
 
-- **𝒞<sub>Sal</sub>** (Contexto de Salida):  
-  *Restricciones adicionales para la respuesta*  
-  - Ejemplo: `"Usa analogías de videojuegos"`
+- **𝒞<sub>Sal</sub>** (Contexto de Salida): <br> 
+  *Restricciones adicionales para la respuesta*  <br>
+  - Ejemplo: `"Usa analogías de videojuegos"`<br>
 
-- **ℝ** (Respuesta):  
-  *Output generado por la IA*  
+- **ℝ** (Respuesta):  <br>
+  *Output generado por la IA*  <br>
   - Puede ser: `Texto, código, imágenes, etc.`
 <br>
 
@@ -167,13 +167,13 @@ seo:
   </span>
 </p>
 
-### 💸 ¿Por Qué los Cursos en "Prompt Engineering" de $300 Son un Timo?
+###¿Por Qué los Cursos en "Prompt Engineering" de $300 Son un Timo?
 <p style="text-align: justify; text-justify:inner-word;">
 <strong>Para explicarlo de forma bastante sencillita:</strong><br>
 - Ellos venden: \( \text{Diploma} = 300\$ \times \text{FOMO} \).<br>
-- Tú necesitas: \( \text{Sentido común} + \text{Paciencia} \).  
+- Tú necesitas: \( \text{Sentido común} + \text{Paciencia} \).  <br>
 
-<strong>Ejemplo real:</strong>  
+<strong>Ejemplo real:</strong>  <br>
 Un "experto" cobra $300 por enseñar... a usar emojis en prompts y a decir "gracias" y de hecho es por eso que te preparan no solo en ser bueno con los prompts, sino en crear productos basados en los mismos, cosa que... Sorpresa, tambien puedes aprender y construir, usando los mismos prompts. 😱  
 </p>
 
@@ -187,10 +187,10 @@ Un "experto" cobra $300 por enseñar... a usar emojis en prompts y a decir "grac
   </span>
 </p>
 
-### 🚀 Conclusión: Tú Ya Sabías Todo Esto
-> - **Dominar prompts** = Saber explicarte + probar iterativamente.  
-> - **Los cursos caros** son como NFT: pura especulación.  
-> - **La funcion P** util para quienes piensen en terminos mas tecnicos.  
+###Conclusión: Tú Ya Sabías Todo Esto
+> <strong>Dominar prompts</strong> = Saber explicarte + probar iterativamente.  
+> <strong>Los cursos caros son como NFT</strong>: pura especulación.  
+> <strong>La funcion P</strong>: util para quienes piensen en terminos mas tecnicos.  
 
 <p align="center">
   <img src="{{ '/assets/images/posts/personas-riendo.png' | relative_url }}" 
@@ -202,10 +202,10 @@ Un "experto" cobra $300 por enseñar... a usar emojis en prompts y a decir "grac
   </span>
 </p>
 
-### 📚 Recursos Reales (y Gratis)
-- [Guía de Prompting](https://www.promptingguide.ai/es) - Lo que los cursos copian y quien le debo este research.  
-- <strong>GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks</strong) - <italic>Zemin Liu, Xingtong Yu, Yuan Fang, Xinming Zhang</italic>
+###Recursos Reales (y Gratis)
+- (https://www.promptingguide.ai/es) - Lo que los cursos copian y quien le debo este research.  <br>
+- <strong>GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks</strong> - <italic>Zemin Liu, Xingtong Yu, Yuan Fang, Xinming Zhang</italic><br>
 
 Te ha parecido interesante, ¿Has pagado por un curso como estos? de ser asi, o conocer a alguien que lo haya hecho, compartelo y no olvides dejar un comentario, de este modo podemos hacer que la funcion P, sea cada vez mas "Poderosa".
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C41DTDL)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C41DTDL2)
