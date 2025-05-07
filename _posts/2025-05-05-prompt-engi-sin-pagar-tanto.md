@@ -98,9 +98,9 @@ seo:
 
 ## La Función 𝒫: Una Propuesta de Generalización
 
-$$
-\mathscr{P}\Big(\mathtt{Ins} \mid \mathcal{C}_{\text{Ins}} + \varepsilon,\ \mathcal{D}_{\text{in}},\ \mathtt{Sal} \mid \mathcal{C}_{\text{Sal}}}\Big) \to \mathbb{R}
-$$
+<div style="background:#f8f8f8;padding:1em;border-radius:5px">
+𝒫(Ins|𝒞<sub>Ins</sub> + ε, 𝒟<sub>in</sub>, Sal|𝒞<sub>Sal</sub>) → ℝ
+</div>
 
 ### Donde:
 1. **𝒫 (Función de Prompt):** Transforma entradas en respuestas  
@@ -144,7 +144,7 @@ $$
 </p>
 
 <p style="text-align: justify; text-justify:inner-word;">
-    De esta forma, podemos entender que no solo es posible crear nuevas estructuras, dentro del prompt engineering, sino que esta puede mejorar incluso las respuestas, que pueden tener los sistemas de procesamiento de lenguaje natural, resultando incluso de forma indirecta, en menor gasto energetico, ya que las operaciones digitales, son menores, como visualizacion, se toma este ejemplo dado a traves de un call de ChatGPT v3.5
+    De esta forma, podemos entender que no solo es posible crear nuevas estructuras, dentro del prompt engineering, sino que esta puede mejorar incluso las respuestas, que pueden tener los sistemas de procesamiento de lenguaje natural, resultando incluso de forma indirecta, en menor gasto energetico, ya que las operaciones digitales, son menores, como visualizacion, se toma este ejemplo dado a traves de un call de ChatGPT v3.5, donde la velocidad es de <strong>40% mas rapido</strong> sobre el prompt original.
 </p>
 
 <p align="center">
