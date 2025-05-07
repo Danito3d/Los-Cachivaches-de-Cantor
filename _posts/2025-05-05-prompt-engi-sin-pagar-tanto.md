@@ -98,8 +98,23 @@ seo:
 
 ## La Función 𝒫: Una Propuesta de Generalización
 
-<div style="background:#f8f8f8;padding:1em;border-radius:5px">
-𝒫(Ins|𝒞<sub>Ins</sub> + ε, 𝒟<sub>in</sub>, Sal|𝒞<sub>Sal</sub>) → ℝ
+<div style="
+    background: #f8f8f8;
+    padding: 1.5em;
+    border-radius: 5px;
+    text-align: center;
+    margin: 20px auto;
+    max-width: fit-content;
+">
+    <span style="
+        font-size: calc(1rem + 1vw);
+        font-family: 'Cambria Math', 'STIX Two Math', serif;
+        display: inline-block;
+        transform: scale(1.3);
+        padding: 0 10px;
+    ">
+        𝒫(Ins|𝒞<sub>Ins</sub> + ε, 𝒟<sub>in</sub>, Sal|𝒞<sub>Sal</sub>) → ℝ
+    </span>
 </div>
 
 ### Donde:
