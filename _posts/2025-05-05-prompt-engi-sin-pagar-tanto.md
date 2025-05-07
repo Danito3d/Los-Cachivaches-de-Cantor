@@ -98,35 +98,38 @@ seo:
 
 ## La Función 𝒫: Una Propuesta de Generalización
 
-\[
-\mathscr{P}\Big(\mathtt{Ins} \mid \mathcal{C}_{\text{Ins}} + \varepsilon,\ \mathcal{D}_{\text{in}},\ \mathtt{Sal} \mid \mathcal{C}_{\text{Sal}}\Big) \to \mathbb{R}
-\]
+> ** 𝒫(Ins|𝒞_Ins + ε, 𝒟_in, Sal|𝒞_Sal) → ℝ **	
 
-
-### Componentes:
+### Donde:
 1. **𝒫 (Función de Prompt):** Transforma entradas en respuestas  
    *Ejemplo: `"Traduce esto" → "Bonjour"`*
 
-2. **Ins (Instrucción):** Directriz principal  
+2. **Ins :** Directriz principal  
    *Ejemplo: `"Resume este texto"`*
 
-3. **𝒞<sub>Ins</sub> (Contexto):** Marco de referencia  
+3. **𝒞<sub>Ins</sub>:** Marco de referencia  
    *Ejemplo: `"Como experto en biología..."`*
 
-4. **ε (Ruido):** Ambigüedad no intencional  
+4. **ε:** Ambigüedad no intencional  
    *Ejemplo: `"Haz algo creativo"`*
 
-5. **𝒟<sub>in</sub> (Datos):** Información proporcionada  
+5. **𝒟<sub>in</sub>:** Información proporcionada  
    *Ejemplo: `Datos crudos o ejemplos`*
 
-6. **Sal (Salida):** Formato deseado  
+6. **Sal:** Formato deseado  
    *Ejemplo: `"En tabla comparativa"`*
 
-7. **𝒞<sub>Sal</sub> (Contexto de Salida):** Restricciones adicionales  
+7. **𝒞<sub>Sal</sub>:** Restricciones adicionales  
    *Ejemplo: `"Usa analogías de videojuegos"`*
 
-8. **ℝ (Respuesta):** Output generado  
+8. **ℝ:** Output generado  
    *Puede ser texto, código, imágenes, etc.*
+
+<br>
+
+<p style="text-align: justify; text-justify:inner-word;">
+    De esa forma podemos tener un prompt que este estructurado de una forma mas compacta, donde se utilizara como paralelismo el caso "One-Shot", de modo que se pueda realizar una comparacion en el prompt.
+</p>
 
 <p align="center">
   <img src="{{ '/assets/images/posts/prompt-funcion-one.png' | relative_url }}" 
@@ -138,6 +141,19 @@ seo:
   </span>
 </p>
 
+<p style="text-align: justify; text-justify:inner-word;">
+    De esta forma, podemos entender que no solo es posible crear nuevas estructuras, dentro del prompt engineering, sino que esta puede mejorar incluso las respuestas, que pueden tener los sistemas de procesamiento de lenguaje natural, resultando incluso de forma indirecta, en menor gasto energetico, ya que las operaciones digitales, son menores, como visualizacion, se toma este ejemplo dado a traves de un call de ChatGPT v3.5
+</p>
+
+<p align="center">
+  <img src="{{ '/assets/images/posts/comparativa-natural-funcion.png' | relative_url }}" 
+       alt="Ejemplo de función P" 
+       style="max-width: 80%; height: auto;">
+  <br>
+  <span style="font-size: 0.85em; color: #666; font-style: italic;">
+    Procesamiento de Lenguaje Natural vs Funcion P
+  </span>
+</p>
 ---
 
 ## ¿Por Qué los Cursos de $300 Son un Timo?
@@ -160,7 +176,7 @@ seo:
 
 ---
 
-## Conclusión
+## Pequeños insights que llevarte, de bolsillo
 
 1. **Dominar prompts** = Saber explicarte + iterar  
 2. **Los cursos caros** son como NFTs: especulación pura  
