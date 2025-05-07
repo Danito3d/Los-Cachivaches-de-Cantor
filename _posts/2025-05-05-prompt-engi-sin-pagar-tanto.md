@@ -98,7 +98,11 @@ seo:
 
 ## La Función 𝒫: Una Propuesta de Generalización
 
-> ** 𝒫(Ins|𝒞_Ins + ε, 𝒟_in, Sal|𝒞_Sal) → ℝ **	
+<div style="text-align: center; margin: 1em 0;">
+  <img src="{{ '/assets/images/prompt-function.png' | relative_url }}" 
+       alt="Función 𝒫(Ins|𝒞_Ins + ε, 𝒟_in, Sal|𝒞_Sal) → ℝ" 
+       style="max-width: 90%;">
+</div>
 
 ### Donde:
 1. **𝒫 (Función de Prompt):** Transforma entradas en respuestas  
