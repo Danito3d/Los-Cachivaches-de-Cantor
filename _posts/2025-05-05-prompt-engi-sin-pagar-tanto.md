@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prompt Engineering: La Fórmula Matemática que los Cursos de $500 No Quieren que Conozcas"
+title: "Prompt Engineering: La Fórmula Matemática que los Cursos de $300 No Quieren que Conozcas"
 date: 2025-05-05 00:00:00 +0000
 categories: [IA, humor]
 tags: [prompt engineering, LLMs, matemáticas, crítica social]
